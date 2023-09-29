@@ -1,0 +1,23 @@
+list +
+  HBw76Br3GK93xY297qH354FLoZ9j5C9i8O35G28zI7cOmd98u2
+  HB6v2x6M97lD24c4m5jJ214V6C32bF6i4dC96t25x1h8d436j0
++ (.dummypack)
+
+.dummypack +
+  in return
+    concentrate on [HBX] seed
+  and done
++ (80% [HBX/listpass] 20% [temporalunit])
+
+every instance of .dummypack $
+  repeat (for every [temporalunit])
+    in return
+      concentrate on [HBX] seed
+    and done
+  and done
+  multiply (×2)
+    hb address request
+  and done
+$ [return to list]
+    
+    
